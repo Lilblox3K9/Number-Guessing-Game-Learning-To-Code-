@@ -6,6 +6,7 @@ using namespace std;
 
 int main(){
 
+    #egg bc why not :3
     char egg = 'Y';
 
     while (egg == 'Y' || egg == 'y'){
